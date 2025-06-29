@@ -1,0 +1,11 @@
+# Visual Studio Code
+.vscode
+
+
+build/
+bld/
+[Bb]in/
+[Oo]bj/
+
+# Visual Studio 2015
+.vs/
